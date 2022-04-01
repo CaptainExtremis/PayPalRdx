@@ -1,7 +1,4 @@
 # PaypalRdx
-# Description
-
-This project was built in order to familiarize myself with the Angular CLI and node.js tools. This is the reason it lacks functionality in some areas.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
