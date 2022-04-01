@@ -1,0 +1,67 @@
+#dk
+{
+    float: left;
+}
+#bill-split-page
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+}
+#billsplit
+{
+    background-color: aquamarine;
+}
+.options
+{
+    color: white;
+    background-color: cadetblue;
+}
+#creditstuff
+{
+    margin-left: 80px;
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wut
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title-style
+{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.class2
+{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.billingdiv
+{
+    margin-left: 80px;
+    margin-top: 25px;
+}
+.storefront
+{
+    margin-left: 120px;
+    margin-top: 70px;
+}
+/* QR code */
+#codesubmit
+{
+  float: center;
+  border: 1px dashed black;
+  height: 250px;
+  width: 250px;
+  margin-top: 30px;
+  margin-bottom: 14px;
+  margin-right: 450px;
+}
+.qrtext
+{
+  float: center;
+  font-size: 20px;
+  margin-top: 120px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
